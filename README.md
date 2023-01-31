@@ -4,10 +4,12 @@
 Build statistical model to understand how the city bike stations are present in various locations and the parameters affecting it.
 
 ## Process
-###Aim to access the multiple API’s
-###Merged the data into one dataframe for further analysis
-###Transforming and performing EDA to analyse
-###Build statistical model and interpret the result
+Aim to access the multiple API’s
+
+Merged the data into one dataframe for further analysis
+
+Transforming and performing EDA to analyse
+Build statistical model and interpret the result
 
 
 ## Results
