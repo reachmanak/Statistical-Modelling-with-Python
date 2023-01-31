@@ -1,17 +1,23 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-(fill in your description and goals here)
+Build statistical model to understand how the city bike stations are present in various locations and the parameters affecting it.
 
 ## Process
-### (your step 1)
-### (your step 2)
+###Aim to access the multiple API’s
+###Merged the data into one dataframe for further analysis
+###Transforming and performing EDA to analyse
+###Build statistical model and interpret the result
+
 
 ## Results
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
+As per EDA, I could say that more bikes were present in areas with more popular eateries. However, after the OLS model, I am at conclusion that the data was inconclusive. With more data and more coverage of fields the prominence of independent variables would develop and increase.
 
 ## Challenges 
-(discuss challenges you faced in the project)
+-Cleaning and structuring JSON data.
+-Parsing te JSON data into lists was hard but learnt something new.
+-Very less parameters for observations
+
 
 ## Future Goals
-(what would you do if you had more time?)
+Would love to have more time to understand the parameters further and collect as much data as possible to find statistically significance in model.
